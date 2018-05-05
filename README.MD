@@ -3,8 +3,8 @@ TODO:
 **Chapter 1**
 - Arrays and Strings 
 
-- [ ] 1.1
-- [ ] 1.2
+- [x] 1.1
+- [x] 1.2
 - [ ] 1.3
 - [ ] 1.4
 - [ ] 1.5

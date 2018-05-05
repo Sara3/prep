@@ -32,6 +32,7 @@ function permutation(str1, str2) {
 	return true
 }
 
+//20 minutes 
 
 console.log(permutation("string1", "string1"))
 
