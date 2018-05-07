@@ -33,6 +33,7 @@ function permutation(str1, str2) {
 }
 
 //20 minutes 
+//alternatively you can sort both strings and copare 
 
-console.log(permutation("string1", "string1"))
+console.log(permutation("string1", "string2"), false)
 
