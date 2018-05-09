@@ -23,6 +23,22 @@ function duplicate(str) {
 	return result
 }
 
+//with
+
+function duplicate1(str) {
+
+for(let i = 0; i<str.length-1; i++){
+	for(let j =i+1 ; j < str.length;i++) {
+			if(str[i]===str[j]) {
+				str[i]=""
+			}
+
+	}
+}
+
+
+}
+
 console.log(duplicate("stdfdtyvkffffff"));
 
 
