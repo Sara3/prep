@@ -26,20 +26,17 @@ function duplicate(str) {
 //with
 
 function duplicate1(str) {
-
-for(let i = 0; i<str.length-1; i++){
-	for(let j =i+1 ; j < str.length;i++) {
-			if(str[i]===str[j]) {
-				str[i]=" "
-			}
-
+	for(let i = 0; i < str.length-1; i++) {
+		for(let j =i+1 ; j < str.length;j++) {
+	    if(str[i]===str[j]) {
+	      str = str.substr(0, j) + str.substr(j+1, str.length)
+		  }
+		}
 	}
+  return str;
 }
-
-
-}
-
-console.log(duplicate("stdfdtyvkffffff"));
+//t, d
+console.log(duplicate1("stdfdtttt"));
 
 
 

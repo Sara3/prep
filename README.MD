@@ -5,12 +5,21 @@ TODO:
 
 - [x] 1.1
 - [x] 1.2
-- [ ] 1.3
+- [X] 1.3
 - [ ] 1.4
 - [ ] 1.5
 - [ ] 1.6
 - [ ] 1.7
 - [ ] 1.8
+
+- [ ] Check against other's answers 
+- [ ] implement linked list
+- [ ] queue
+- [ ] stack 
+- [ ] know about sorting algorthims 
+- [ ] binary tree 
+- [ ] find the most asked question 
+- [ ] write personal intro 
 
 
 **Chapter 2**
